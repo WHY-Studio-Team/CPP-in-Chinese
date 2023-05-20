@@ -13,7 +13,7 @@
 ```sh 
 git clone https://github.com/WHY-Studio-Team/CPP-in-Chinese.git
 ```
-1. 复制其中的`chinese.h`文件，粘贴到你的项目的引用文件夹中
-1. 在你的项目中使用`#include "chinese.h"`来引入汉化文件
+2. 复制其中的`chinese.h`文件，粘贴到你的项目的引用文件夹中
+3. 在你的项目中使用`#include "chinese.h"`来引入汉化文件
 
 > 建议使用Visual Studio作为该项目的IDE
