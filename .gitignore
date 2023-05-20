@@ -40,11 +40,7 @@
 /x86/*
 /x64/*
 */.vs/*
-/.vs/CPP-in-Chinese/v17
-/.vs/CPP-in-Chinese/v17
-/.vs/CPP-in-Chinese/v17/Solution.VC.db
-/.vs/CPP-in-Chinese/v17/Solution.VC.db-shm
-/.vs/CPP-in-Chinese/v17/Solution.VC.db-wal
+/.vs/*
 *.pdb
 *.tlog
 *.ilk
