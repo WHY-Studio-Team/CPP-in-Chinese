@@ -10,7 +10,9 @@
 ## 安装与使用
 
 1. 克隆本仓库
-``` git clone https://github.com/WHY-Studio-Team/CPP-in-Chinese.git ```
+```sh 
+git clone https://github.com/WHY-Studio-Team/CPP-in-Chinese.git
+```
 1. 复制其中的`chinese.h`文件，粘贴到你的项目的引用文件夹中
 1. 在你的项目中使用`#include "chinese.h"`来引入汉化文件
 
