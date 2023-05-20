@@ -35,3 +35,5 @@
 *.suo
 *.filters
 *.user
+*/x86/*
+*/x64/*
