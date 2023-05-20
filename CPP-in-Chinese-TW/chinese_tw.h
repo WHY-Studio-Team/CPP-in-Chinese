@@ -1,0 +1,71 @@
+/*
+	Name: C/C++ 漢化插件
+	Copyright: WHY-Studio Software
+	Author: Insignificant Wan
+	Date: 20-05-23 07:00
+	Description: 簡單易懂的漢化，你值得擁有~
+*/
+
+#define 字串 string
+#define 布爾 bool 
+#define 如果 if
+#define 否則 else
+#define 前往 goto
+#define 選擇 switch
+#define 方案 case
+#define 做 do
+#define 自動 auto
+#define 註冊 register
+#define 聲明 extern
+#define 靜態 static
+#define 大小 sizeof
+#define 默認 default
+#define 別稱 typedef
+#define 常量 const
+#define 空類型 void 
+#define 不穩定 volatile 
+#define 外部 extern
+#define 枚舉 enum
+#define 結構體 struct
+#define 無符號 union
+#define 循環 for
+#define 繼續 contiune
+#define 跳出 break
+#define 短 short 
+#define 字元 char
+#define 無符號整型 unsigned
+#define 有符號整型 signed 
+#define 整型 int
+#define 長 long
+#define 直到 while
+#define 輸出快取 cout
+#define 輸入快取 cin
+#define 換行 endl
+#define 格式化輸入 scanf
+#define 格式化輸出 printf
+#define 獲取字元 getchar
+#define 輸出字元 putchar 
+#define 獲取一行字元 gets
+#define 浮點數 float
+#define 雙精度浮點 double 
+#define 返回 return
+#define 字串拷貝 strcpy 
+#define 釋放 free
+#define 字串長度 strlen
+#define 字串拼接 strcat
+#define 字串比較 strcmp
+#define 字串小寫 strlwr
+#define 字串大寫 strupr 
+#define 申請記憶體 malloc 
+#define 主 main 
+#define 使用 using 
+#define 命名空間 namespace
+#define 標準 std 
+#define 系統 system
+#define 等待按鍵按下 "pause"
+#define 真 true
+#define 假 false
+#define 類 class
+#define 公共 public
+#define 保護 protected
+#define 私有 private
