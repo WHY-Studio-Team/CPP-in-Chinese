@@ -22,6 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <ProjectGuid>{B2C7D694-246E-4F74-81E2-E49C6EC8A0DE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
+    <ProjectName>CPP-in-Chinese</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
