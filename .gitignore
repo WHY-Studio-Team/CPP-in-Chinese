@@ -2,7 +2,6 @@
 *.d
 
 # Compiled Object files
-*.suo
 *.slo
 *.lo
 *.o
@@ -31,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# ?
+*.suo
+*.filters
+*.user
