@@ -1,0 +1,71 @@
+/*
+	Name: C/C++ 汉化插件 
+	Copyright: WHY-Studio Software
+	Author: Insignificant Wan
+	Date: 20-05-23 07:00
+	Description: 简单易懂的汉化，你值得拥有~ 
+*/
+
+#define 字符串 string
+#define 布尔 bool 
+#define 如果 if
+#define 否则 else
+#define 前往 goto
+#define 选择 switch
+#define 方案 case
+#define 做 do
+#define 自动 auto
+#define 注册 register
+#define 声明 extern
+#define 静态 static
+#define 大小 sizeof
+#define 默认 default
+#define 别称 typedef
+#define 常量 const
+#define 空类型 void 
+#define 不稳定 volatile 
+#define 外部 extern
+#define 枚举 enum
+#define 结构体 struct
+#define 无符号 union
+#define 循环 for
+#define 继续 contiune
+#define 跳出 break
+#define 短 short 
+#define 字符 char
+#define 无符号整型 unsigned
+#define 有符号整型 signed 
+#define 整型 int
+#define 长 long
+#define 直到 while
+#define 输出缓存 cout
+#define 输入缓存 cin
+#define 换行 endl
+#define 格式化输入 scanf
+#define 格式化输出 printf
+#define 获取字符 getchar
+#define 输出字符 putchar 
+#define 获取一行字符 gets
+#define 浮点数 float
+#define 双精度浮点 double 
+#define 返回 return
+#define 字符串拷贝 strcpy 
+#define 释放 free
+#define 字符串长度 strlen
+#define 字符串拼接 strcat
+#define 字符串比较 strcmp
+#define 字符串小写 strlwr
+#define 字符串大写 strupr 
+#define 申请内存 malloc 
+#define 主 main 
+#define 使用 using 
+#define 命名空间 namespace
+#define 标准 std 
+#define 系统 system
+#define 等待按键按下 "pause"
+#define 真 true
+#define 假 false
+#define 类 class
+#define 公共 public
+#define 保护 protected
+#define 私有 private
