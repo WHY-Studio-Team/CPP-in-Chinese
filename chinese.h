@@ -58,6 +58,7 @@
 #define 字符串大写 strupr 
 #define 申请内存 malloc 
 #define 程序入口 main 
+#define 主 main 
 #define 使用 using 
 #define 命名空间 namespace
 #define 标准 std 
