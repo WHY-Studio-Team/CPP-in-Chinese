@@ -73,7 +73,7 @@
 #define ）)
 #define 大于 >
 #define 小于 <
-#define 甲 a
-#define 乙 b
-#define 丙 c
-#define 
+#define ； ;
+#define 《 <<
+#define 》 >>
+
